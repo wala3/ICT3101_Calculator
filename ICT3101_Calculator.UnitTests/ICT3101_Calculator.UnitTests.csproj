@@ -1,0 +1,92 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.13.2" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
+    <PackageReference Include="SpecFlow" Version="3.9.22" />
+    <PackageReference Include="SpecFlow.NUnit" Version="3.9.22" />
+    <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.9.22" />
+    <PackageReference Include="SpecFlow.NUnit.Runners" Version="3.9.22" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ICT3101_Calculator\ICT3101_Calculator.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Features\" />
+    <None Remove="Step_Definitions\" />
+    <None Remove="SpecFlow" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="SpecFlow.NUnit" />
+    <None Remove="SpecFlow.Tools.MsBuild.Generation" />
+    <None Remove="SpecFlow.NUnit.Runners" />
+    <None Remove="SpecRun.SpecFlow" />
+    <None Remove="SpecRun.SpecFlow.2-4-0" />
+    <None Remove="SpecFlow.CustomPlugin" />
+    <None Remove="SpecRun.Runner" />
+    <None Remove="Gherkin" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Features\" />
+    <Folder Include="Step_Definitions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <SpecFlowFeatureFiles Update="Features\UsingCalculatorAdditions.feature">
+      <Visible>False</Visible>
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>UsingCalculatorAdditions.feature.cs</LastGenOutput>
+    </SpecFlowFeatureFiles>
+    <SpecFlowFeatureFiles Update="Features\UsingCalculatorDivisions.feature">
+      <Visible>False</Visible>
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>UsingCalculatorDivisions.feature.cs</LastGenOutput>
+    </SpecFlowFeatureFiles>
+    <SpecFlowFeatureFiles Update="Features\UsingCalculatorFactorial.feature">
+      <Visible>False</Visible>
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>UsingCalculatorFactorial.feature.cs</LastGenOutput>
+    </SpecFlowFeatureFiles>
+    <SpecFlowFeatureFiles Update="Features\UsingCalculatorAvailability.feature">
+      <Visible>False</Visible>
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>UsingCalculatorAvailability.feature.cs</LastGenOutput>
+    </SpecFlowFeatureFiles>
+    <SpecFlowFeatureFiles Update="Features\UsingCalculatorBasicReliability.feature">
+      <Visible>False</Visible>
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>UsingCalculatorBasicReliability.feature.cs</LastGenOutput>
+    </SpecFlowFeatureFiles>
+    <SpecFlowFeatureFiles Update="Features\CalculatingDefectDensity.feature">
+      <Visible>False</Visible>
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CalculatingDefectDensity.feature.cs</LastGenOutput>
+    </SpecFlowFeatureFiles>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Features\UsingCalculatorAdditions.feature.cs">
+      <DependentUpon>UsingCalculatorAdditions.feature</DependentUpon>
+    </Compile>
+    <Compile Update="Features\UsingCalculatorDivisions.feature.cs">
+      <DependentUpon>UsingCalculatorDivisions.feature</DependentUpon>
+    </Compile>
+    <Compile Update="Features\UsingCalculatorFactorial.feature.cs">
+      <DependentUpon>UsingCalculatorFactorial.feature</DependentUpon>
+    </Compile>
+    <Compile Update="Features\UsingCalculatorAvailability.feature.cs">
+      <DependentUpon>UsingCalculatorAvailability.feature</DependentUpon>
+    </Compile>
+    <Compile Update="Features\UsingCalculatorBasicReliability.feature.cs">
+      <DependentUpon>UsingCalculatorBasicReliability.feature</DependentUpon>
+    </Compile>
+    <Compile Update="Features\CalculatingDefectDensity.feature.cs">
+      <DependentUpon>CalculatingDefectDensity.feature</DependentUpon>
+    </Compile>
+  </ItemGroup>
+</Project>
