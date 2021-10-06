@@ -1,0 +1,331 @@
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.deps.json
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.runtimeconfig.json
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.runtimeconfig.dev.json
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.deps.json
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.runtimeconfig.json
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.runtimeconfig.dev.json
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.pdb
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.pdb
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.csproj.AssemblyReference.cache
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.AssemblyInfoInputs.cache
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.AssemblyInfo.cs
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.csproj.CoreCompileInputs.cache
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.csproj.CopyComplete
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.dll
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.pdb
+/Users/tanshengfong/Projects/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.genruntimeconfig.cache
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.deps.json
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.runtimeconfig.json
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.runtimeconfig.dev.json
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.deps.json
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.runtimeconfig.json
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.runtimeconfig.dev.json
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.pdb
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/BoDi.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Cucumber.Messages.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Gherkin.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/testhost.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/TechTalk.SpecFlow.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/SpecFlow.Internal.Json.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.pdb
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.AssemblyInfo.cs
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.csproj.CopyComplete
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.dll
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.pdb
+/Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.genruntimeconfig.cache
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.deps.json
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.runtimeconfig.json
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.runtimeconfig.dev.json
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.engine.core.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/testcentric.engine.metadata.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.deps.json
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.runtimeconfig.json
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.runtimeconfig.dev.json
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.pdb
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/BoDi.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Cucumber.Messages.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Gherkin.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/TechTalk.SpecFlow.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/SpecFlow.Internal.Json.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/ICT3101_Calculator.pdb
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.csproj.AssemblyReference.cache
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.AssemblyInfoInputs.cache
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.AssemblyInfo.cs
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.csproj.CoreCompileInputs.cache
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.csproj.CopyComplete
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.pdb
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/obj/Debug/netcoreapp3.1/ICT3101_Calculator.UnitTests.genruntimeconfig.cache
