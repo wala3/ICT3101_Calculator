@@ -37,6 +37,7 @@ namespace ICT3101_Calculator.UnitTests.Step_Definitions
         public void ThenTheNewSSIShouldBeOnTheScreen(double p0)
         {
             Assert.That(_result, Is.EqualTo(p0));
+
         }
     }
 }
