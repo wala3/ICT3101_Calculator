@@ -24,16 +24,15 @@
 /Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.dll
 /Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.pdb
 /Volumes/GoogleDrive/My Drive/School stuff/Year 3 Sem 1/ICT3101/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.genruntimeconfig.cache
-/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.csproj.AssemblyReference.cache
-/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.GeneratedMSBuildEditorConfig.editorconfig
-/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.AssemblyInfoInputs.cache
-/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.AssemblyInfo.cs
-/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.csproj.CoreCompileInputs.cache
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp3.1/ICT3101_Calculator.deps.json
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp3.1/ICT3101_Calculator.runtimeconfig.json
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp3.1/ICT3101_Calculator.runtimeconfig.dev.json
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp3.1/ICT3101_Calculator.dll
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp3.1/ICT3101_Calculator.pdb
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.AssemblyInfoInputs.cache
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.AssemblyInfo.cs
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.csproj.CoreCompileInputs.cache
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.dll
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.pdb
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.genruntimeconfig.cache

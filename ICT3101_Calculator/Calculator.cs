@@ -18,6 +18,7 @@ namespace ICT3101_Calculator
             double result = double.NaN; // Default value
                                         // Use a switch statement to do the math.
 
+
             switch (op)
             {
                 case "a":
