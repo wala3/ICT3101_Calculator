@@ -5,11 +5,13 @@ namespace ICT3101_Calculator.UnitTests
     public class CalculatorTests
     {
         private Calculator _calculator;
+        IFileReader _fileReader = new FileReader();
 
         [SetUp]
         public void Setup()
         {
             // Arrange
+            //_calculator = new Calculator(_fileReader);
             _calculator = new Calculator();
         }
 
@@ -86,6 +88,15 @@ namespace ICT3101_Calculator.UnitTests
             double result = _calculator.AreaOfCircle(10);
             // Assert
             Assert.That(result, Is.EqualTo(314.2));
+        }
+
+        [Test]
+        public void GenMagicNum_WhenGeneratingMagicNumber_ResultEqualToSelectedIndexTimes2()
+        {
+            // Act 
+            double result = _calculator.GenMagicNum(0, _fileReader);
+            // Assert
+            Assert.That(result, Is.EqualTo(6));
         }
     }
 }

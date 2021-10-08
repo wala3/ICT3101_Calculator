@@ -3,11 +3,21 @@ namespace ICT3101_Calculator
 {
     public class Calculator
     {
-        public Calculator() { }
+        //IFileReader _fileReader;
+        //public Calculator(IFileReader fileReader)
+        //{
+        //    _fileReader = fileReader;
+        //}
+
+        IFileReader _fileReader = new FileReader();
+
+        public Calculator() {}
+
         public double DoOperation(double num1, double num2, string op)
         {
             double result = double.NaN; // Default value
                                         // Use a switch statement to do the math.
+
             switch (op)
             {
                 case "a":
@@ -31,6 +41,9 @@ namespace ICT3101_Calculator
                     break;
                 case "i":
                     result = AreaOfCircle(num1);
+                    break;
+                case "j":
+                    result = GenMagicNum(num1, _fileReader);
                     break;
                 // Return text for an incorrect option entry.
                 default:
@@ -145,6 +158,24 @@ namespace ICT3101_Calculator
         public double NewSSI(double prevSSI, double CSI, double changedCode)
         {
             return prevSSI + CSI - changedCode;
+        }
+
+        public double GenMagicNum(double input, IFileReader fileReader)
+        {
+            double result = 0;
+            int choice = Convert.ToInt16(input);
+            // Dependency
+            // FileReader getTheMagic = new FileReader();
+            // end
+
+            string[] magicStrings = fileReader.Read("../../../../MagicNumbers.txt");
+
+            if ((choice >= 0) && (choice < magicStrings.Length))
+            {
+                result = Convert.ToDouble(magicStrings[choice]);
+            }
+            result = (result > 0) ? (2 * result) : (-2 * result);
+            return result;
         }
     }
 }

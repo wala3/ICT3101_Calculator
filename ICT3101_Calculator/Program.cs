@@ -7,7 +7,11 @@ namespace ICT3101_Calculator
         static void Main(string[] args)
         {
             bool endApp = false;
+            //IFileReader fileReader = new FileReader();
+
+            //Calculator _calculator = new Calculator(fileReader);
             Calculator _calculator = new Calculator();
+
             // Display title as the C# console calculator app.
             Console.WriteLine("Console Calculator in C#\r");
             Console.WriteLine("------------------------\n");
@@ -44,21 +48,22 @@ namespace ICT3101_Calculator
                 Console.WriteLine("\tf - Factorial");
                 Console.WriteLine("\th - Area of triangle");
                 Console.WriteLine("\ti - Area of circle");
+                Console.WriteLine("\tj - Magic Numbers");
                 Console.Write("Your option? ");
                 string op = Console.ReadLine();
-                try
-                {
+                //try
+                //{
                     result = _calculator.DoOperation(cleanNum1, cleanNum2, op);
                     if (double.IsNaN(result))
                     {
                         Console.WriteLine("This operation will result in a mathematical error.\n");
                     }
                     else Console.WriteLine("Your result: {0:0.##}\n", result);
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine("Oh no! An exception occurred trying math.\n - Details: " + e.Message);
-                }
+                //}
+                //catch (Exception e)
+                //{
+                //    Console.WriteLine("Oh no! An exception occurred trying math.\n - Details: " + e.Message);
+                //}
                 Console.WriteLine("------------------------\n");
                 // Wait for the user to respond before closing.
                 Console.Write("Press 'q' and Enter to quit the app, or press any other key and Enter to continue: ");
