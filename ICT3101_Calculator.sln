@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3307954D-CBC3-4261-B6A9-71440A03A983}"
 	ProjectSection(SolutionItems) = preProject
 		.travis.yml = .travis.yml
+		MagicNumbers.txt = MagicNumbers.txt
 	EndProjectSection
 EndProject
 Global
