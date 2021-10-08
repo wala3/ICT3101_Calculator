@@ -169,7 +169,7 @@ namespace ICT3101_Calculator
             // FileReader getTheMagic = new FileReader();
             // end
 
-            string[] magicStrings = fileReader.Read("../../../../MagicNumbers.txt");
+            string[] magicStrings = fileReader.Read("MagicNumbers.txt");
 
             if ((choice >= 0) && (choice < magicStrings.Length))
             {
