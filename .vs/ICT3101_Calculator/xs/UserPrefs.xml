@@ -1,12 +1,13 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{161B4D6F-4AE7-48DB-91B8-5DA38979561F}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ICT3101_Calculator.UnitTests/Selenium_Tests/Selenium_Firefox.cs">
     <Files>
-      <File FileName="ICT3101_Calculator/Program.cs" Line="12" Column="67" />
+      <File FileName="ICT3101_Calculator/Program.cs" Line="13" Column="55" />
       <File FileName="ICT3101_Calculator/Calculator.cs" Line="171" Column="1" />
-      <File FileName="ICT3101_Calculator/FileReader.cs" Line="14" Column="1" />
+      <File FileName="ICT3101_Calculator/FileReader.cs" Line="1" Column="1" />
       <File FileName="ICT3101_Calculator/IFileReader.cs" Line="1" Column="1" />
-      <File FileName="ICT3101_Calculator.UnitTests/CalculatorTests.cs" Line="97" Column="69" />
-      <File FileName="ICT3101_Calculator.UnitTests/AdditionalCalculatorTests.cs" Line="16" Column="64" />
+      <File FileName="ICT3101_Calculator.UnitTests/CalculatorTests.cs" Line="1" Column="1" />
+      <File FileName="ICT3101_Calculator.UnitTests/Selenium_Tests/Selenium_Chrome.cs" Line="33" Column="19" />
+      <File FileName="ICT3101_Calculator.UnitTests/Selenium_Tests/Selenium_Firefox.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,8 +17,10 @@
             <Node name="ICT3101_Calculator" expanded="True" />
             <Node name="ICT3101_Calculator.UnitTests" expanded="True">
               <Node name="Features" expanded="True" />
+              <Node name="Selenium_Tests" expanded="True">
+                <Node name="Selenium_Firefox.cs" selected="True" />
+              </Node>
               <Node name="Step_Definitions" expanded="True" />
-              <Node name="AdditionalCalculatorTests.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -26,11 +29,11 @@
         <State name="__root__">
           <Node name="ICT3101_Calculator" expanded="True">
             <Node name="ICT3101_Calculator.UnitTests" expanded="True">
-              <Node name="ICT3101_Calculator.UnitTests" expanded="True">
-                <Node name="AdditionalCalculatorTests" selected="True" />
-                <Node name="CalculatorTests" expanded="True" />
+              <Node name="ICT3101_Calculator.UnitTests.Selenium_Tests" expanded="True">
+                <Node name="Selenium_Chrome" expanded="True">
+                  <Node name="GoogleAdd_WhenAdding2and2_ResultEquals4" selected="True" />
+                </Node>
               </Node>
-              <Node name="ICT3101_Calculator.UnitTests.Features" expanded="True" />
             </Node>
           </Node>
         </State>

@@ -249,6 +249,7 @@
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/WebDriver.dll
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/TechTalk.SpecFlow.dll
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/SpecFlow.Internal.Json.dll
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator.UnitTests/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
