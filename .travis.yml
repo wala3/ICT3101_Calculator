@@ -7,10 +7,6 @@ addons:
   chrome: stable
   firefox: latest
 
-before_install:
-- sudo apt-get clean
-- sudo apt-get update
-
 script:
 - dotnet restore #this will restore are settings and get all our NuGet packages
 - dotnet test #this will run all our tests
