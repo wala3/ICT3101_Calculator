@@ -8,4 +8,5 @@ addons:
   firefox: latest
 
 script:
-- dotnet restore #this will restore are settings and get all our NuGet packages - dotnet test #this will run all our tests
+- dotnet restore #this will restore are settings and get all our NuGet packages
+- dotnet test #this will run all our tests
