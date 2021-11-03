@@ -12,7 +12,6 @@ before_install:
 - sudo apt-get update
 - sudo apt-get install dbus-x11 dpkg
 - export DISPLAY=:99.0
-- export CHROME_BIN=/usr/bin/google-chrome
 
 script:
 - dotnet restore #this will restore are settings and get all our NuGet packages
