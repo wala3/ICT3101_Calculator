@@ -20,8 +20,8 @@ namespace ICT3101_Calculator.UnitTests.Selenium_Tests
 
             FirefoxOptions option = new FirefoxOptions();
             option.AddArgument("--headless");
-            //_driver = new FirefoxDriver(option);
-            _driver = new FirefoxDriver(@"/usr/bin", option);
+            _driver = new FirefoxDriver(option);
+            //_driver = new FirefoxDriver(@"/usr/bin", option);
         }
         [Test]
         public void GoogleSubtract_WhenSubracting2from6_ResultEquals4()

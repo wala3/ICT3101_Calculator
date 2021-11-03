@@ -29,7 +29,6 @@
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp3.1/ICT3101_Calculator.runtimeconfig.dev.json
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp3.1/ICT3101_Calculator.dll
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/bin/Debug/netcoreapp3.1/ICT3101_Calculator.pdb
-/Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.csproj.AssemblyReference.cache
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.GeneratedMSBuildEditorConfig.editorconfig
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.AssemblyInfoInputs.cache
 /Users/tanshengfong/Projects/ICT3101 lab/ICT3101_Calculator/ICT3101_Calculator/obj/Debug/netcoreapp3.1/ICT3101_Calculator.AssemblyInfo.cs
